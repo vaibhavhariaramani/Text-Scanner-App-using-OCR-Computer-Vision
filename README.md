@@ -6,7 +6,7 @@ OCR represents Optical Character Recognition. It is a cycle of transformation of
 
 # Download
 
-[<img width="150" align='center' src="https://bornrealist.com/wp-content/uploads/2018/09/download-button.jpg">](https://github.com/vaibhavhariaramani/Text-Scanner-App-using-OCR-Computer-Vision/blob/main/Text_Scanner_base.apk)
+[<img width="150" align='center' src="https://archive.org/download/download-button-png/download-button-png.png">](https://github.com/vaibhavhariaramani/Text-Scanner-App-using-OCR-Computer-Vision/blob/main/Text_Scanner_base.apk)
 
 # Resources 
 
